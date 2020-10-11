@@ -1,0 +1,26 @@
+//this came from https://www.nicoespeon.com/en/2019/11/vscode-as-a-presentation-tool/
+{
+    "workbench.colorTheme": "GitHub Clean White",
+    "workbench.colorCustomizations": {
+      "editorCursor.background": "#ffffff",
+      "editorCursor.foreground": "#0000bb",
+      "editor.lineHighlightBackground": "#f0f0f0",
+      "editor.selectionBackground": "#aaeeff"
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "editor.renderWhitespace": "none",
+    "editor.renderIndentGuides": false,
+    "editor.fontFamily": "SF Mono",
+    "terminal.integrated.fontFamily": "SF Mono",
+    "editor.fontWeight": "600",
+    "editor.fontSize": 24,
+    "terminal.integrated.fontWeight": "800",
+    "terminal.integrated.fontSize": 28,
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "editor.formatOnSave": false,
+    "workbench.editor.enablePreview": false
+  }
